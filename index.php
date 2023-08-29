@@ -5,6 +5,8 @@
  <body>
  <?php echo '<p>HELLO BANOBRAS</p>'; ?> 
  <img src="./logo.jpg" alt="Descripción de la imagen">
+<?php syslog("AAAAAA") ?> 
+
 
  </body>
 </html>
