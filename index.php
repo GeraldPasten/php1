@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php echo '<p>Hello BANORBRAS</p>'; ?> 
- <img src="/opt/app-root/src/logo.jpg" alt="Descripción de la imagen">
+ <img src="./logo.jpg" alt="Descripción de la imagen">
 
  </body>
 </html>
