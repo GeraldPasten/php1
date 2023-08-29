@@ -14,7 +14,7 @@
         // Agregar un evento click al botón
         logButton.addEventListener("click", function() {
             // Imprimir mensaje en la consola del navegador cuando se hace clic en el botón
-            console.log('Mensaje enviado desde el botón.');
+            error_log('Mensaje enviado desde el botón.');
         });
     </script>
 
