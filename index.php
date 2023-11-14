@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php echo '<p>HELLO BANORTE</p>'; ?> 
- <img src="./logo.png" alt="Descripción de la imagen" style="max-width: 5; height: auto;">
+ <img src="./logo.png" alt="Descripción de la imagen" style="max-width: 45%; height: auto;">
  
  <button id="refreshButton">Refrescar página</button>
 
