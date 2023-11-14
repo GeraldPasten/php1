@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php echo '<p>HELLO BANOBRAS</p>'; ?> 
- <img src="./logo.jpg" alt="Descripción de la imagen">
+ <img src="./logo.png" alt="Descripción de la imagen">
  
  <button id="refreshButton">Refrescar página</button>
 
